@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Test your Play's touchpad here!</string>
+    <string name="app_name">Xperia Play Touchpad Test</string>
+</resources>
